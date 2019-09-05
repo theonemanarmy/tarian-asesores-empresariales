@@ -224,7 +224,13 @@
                      <div class="media">
                       <img class="d-flex mr-3" src="images/icons/Recurso15.png" alt="Investigacion" width="30">
                       <div class="media-body">
-                        <h6 class="mt-0 font-weight-medium"> Investigación del arrendatario y fiador.</h6>
+                        <h6 class="mt-0 font-weight-medium"> Investigación del prospecto inquilino.</h6>
+                        <p class="text-left" style="font-size:12px;"> 
+                            Investigamos antecedentes penales, antecedentes en tribunales locales 
+                            y del fuero federal, historial crediticio, registro público de la 
+                            propiedad y del comercio y referencias por medio de las cuales se 
+                            analiza el perfil de la persona. 
+                        </p>
                        
                       </div>
                     </div> <br>
@@ -232,28 +238,58 @@
                       <img class="d-flex mr-3" src="images/icons/contrato.png" alt="Investigacion" width="30">
                       <div class="media-body">
                         <h6 class="mt-0 font-weight-medium"> Elaboración y/o modificación del contrato de arrendamiento.</h6>
-                       
+                        <p class="text-left" style="font-size:12px;"> 
+                            Redactamos el contrato a celebrar con tu inquilino, resguardando a 
+                            detalle la esfera jurídica del inmueble y del propietario. 
+                        </p>
                       </div>
                     </div> <br>
                     <div class="media">
                       <img class="d-flex mr-3" src="images/icons/asistencia.png" alt="Investigacion" width="30">
                       <div class="media-body">
-                        <h6 class="mt-0 font-weight-medium">  Asistencia legal personalizada en todo momento.</h6>
-                       
+                        <h6 class="mt-0 font-weight-medium">  Asistencia Personalizada.</h6>
+                        <p class="text-left" style="font-size:12px;"> 
+                            Te respaldamos en todo momento, un abogado te asistirá de manera 
+                            presencial el día establecido para la elaboración del contrato de 
+                            arrendamiento, de igual manera para la entrega del inmueble al 
+                            finalizar el contrato de arrendamiento. 
+                        </p>
                       </div>
                     </div> <br>
                     <div class="media">
                       <img class="d-flex mr-3" src="images/icons/Recurso17.png" alt="Investigacion" width="30">
                       <div class="media-body">
-                        <h6 class="mt-0 font-weight-medium">  Gestión de cobranza preventiva. </h6>
-                       
+                        <h6 class="mt-0 font-weight-medium">  Gestión de cobranza extrajudicial. </h6>
+                        <p class="text-left" style="font-size:12px;"> 
+                            ¿Tu inquilino se atrasó con la renta o servicios?, nuestros abogados 
+                            por medio de la vía extrajudicial tendrán acercamiento con el inquilino
+                            a fin de regularizar los pagos vencidos. 
+                        </p>
                       </div>
                     </div> <br>
                     <div class="media ">
                       <img class="d-flex mr-3" src="images/icons/Recurso18.png" alt="Investigacion" width="30">
                       <div class="media-body">
-                        <h6 class="mt-0 font-weight-medium">  Acciones legales por incumplimientos y daños al inmueble</h6>
-                       
+                        <h6 class="mt-0 font-weight-medium">  Cobranza Judicial.</h6>
+                        <p class="text-left" style="font-size:12px;"> 
+                            ¡El inquilino hizo caso omiso a la gestión extrajudicial!, no te preocupes, 
+                            existen tribunales donde nuestros abogados capacitados en la materia iniciaran 
+                            una demanda por la cual a través de un juez se le requerirá el cobro del adeudo… 
+                            Pero ¿Qué crees? Nuestra cobertura ya incluye el inicio, desahogo y fin de este 
+                            juicio. 
+                        </p>
+                      </div>
+                    </div>
+                    <div class="media ">
+                      <img class="d-flex mr-3" src="images/icons/asesoria.png" alt="Investigacion" width="30">
+                      <div class="media-body">
+                        <h6 class="mt-0 font-weight-medium">  Asistencia Legal.</h6>
+                        <p class="text-left" style="font-size:12px;"> 
+                            Que no exista el “hubiera” “a lo mejor” o “quizás” … Resolveremos tu 
+                            duda al momento. Durante los 13 meses de cobertura tendrás asistencia 
+                            legal por parte de un abogado que atenderá todas las situaciones que 
+                            se desprendan durante el arrendamiento. 
+                        </p>
                       </div>
                     </div>
                      
@@ -267,21 +303,35 @@
                       <img class="d-flex mr-3" src="images/icons/inspeccion.png" alt="Investigacion" width="30">
                       <div class="media-body">
                         <h6 class="mt-0 font-weight-medium">Revisión periódica del inmueble.</h6>
-                         
+                        <p class="text-left" style="font-size:12px;"> 
+                            ¿No tienes idea del estado físico de tu propiedad?, no te preocupes 
+                            ¡Nosotros te lo decimos!, contamos con el respaldo de arquitectos e 
+                            ingenieros con la más alta calidad en trabajos de construcción y 
+                            mantenimiento, mismos que acudirán a tu propiedad el primer mes de 
+                            arrendamiento, al sexto y al recibir el inmueble a fin de validar el 
+                            status del mismo. 
+                        </p>
                       </div>
                     </div> <br>
                      <div class="media">
                       <img class="d-flex mr-3" src="images/icons/contrato.png" alt="Investigacion" width="30">
                       <div class="media-body">
-                        <h6 class="mt-0 font-weight-medium"> Constancias y reportes de las condiciones del inmueble en 3 etapas.</h6>
-                       
+                        <h6 class="mt-0 font-weight-medium"> Constancias y reportes de las condiciones del inmueble.</h6>
+                        <p class="text-left" style="font-size:12px;"> 
+                            En cada una de las visitas de revisión se te hará llegar una constancia de 
+                            la visita así como un reporte detallado de las condiciones en que se 
+                            encontraba 	el inmueble.    
+                        </p>
                       </div>
                     </div> <br>
                     <div class="media">
                       <img class="d-flex mr-3" src="images/icons/mantenimiento.png" alt="Investigacion" width="30">
                       <div class="media-body">
                         <h6 class="mt-0 font-weight-medium">  Mantenimiento y/o reparación de daños por el uso normal del inmueble.</h6>
-                       
+                        <p class="text-left" style="font-size:12px;"> 
+                            Podrás contar con el servicio de Mantenimiento Menor del inmueble 
+                            durante la vigencia de la cobertura. 
+                        </p>
                       </div>
                     </div> <br>
                    

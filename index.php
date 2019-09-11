@@ -26,6 +26,9 @@
 </head>
 
 <body>
+    <a class="button-whatsapp" href="https://api.whatsapp.com/send?phone=528127480049">
+        <i class="fab fa-whatsapp"></i>
+    </a>
     <!-- <span class="ir-arriba"><i class="fas fa-arrow-up"></i></span> -->
 
     <section id="intro">
